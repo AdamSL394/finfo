@@ -32,5 +32,5 @@ Author
 Adam Lehrer, Greyson Gerhard-Young, Megha Prasad, Raghav Shiv
 
 
-![FinFo](/finfo/images/MainPage.jpg)
+![FinFo](/images/MainPage.jpg)
 
